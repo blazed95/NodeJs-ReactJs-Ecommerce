@@ -28,6 +28,7 @@
     "react-icons": "^4.1.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
+    "react-stripe-elements": "^6.1.2",
     "stripe": "^8.129.0",
     "styled-components": "^5.2.1",
     "web-vitals": "^0.2.4"
