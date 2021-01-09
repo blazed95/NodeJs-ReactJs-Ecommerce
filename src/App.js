@@ -25,22 +25,10 @@ const App = () => {
       <Router >
         <AuthProvider browserHistory={browserHistory}>
           <Switch>
-            <Route exact path="/" render={() => (
-              <Dashboard
-              />
-            )}
-            />
-            <Route path="/login" render={() => (
-              <Login
-              />
-            )}
-            />
-            <Route path="/register" render={() => (
-              <Register browserHistory={browserHistory}
-              />
-            )}
-            />
-            <Route path="/logout" component={Logout} browserHistory={browserHistory} />
+            <Route exact path="/" component={Dashboard} />
+            <Route path="/login" component={Login} />
+            <Route path="/register" component={Register} />
+            <Route path="/logout" component={Logout} />
             <Route path="/forgot-password" component={ForgotPassword} />
             <Route path="/product" component={Product} />
             <Route path="/cart" component={Cart} />
