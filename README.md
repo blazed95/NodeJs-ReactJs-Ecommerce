@@ -20,6 +20,8 @@ Open [http://localhost:5000] -- Server Side.<br />
 1. React.js (Front-End)
 2. Node.js (Back-End)
 3. Firebase (User Authentication)
-4. Stripe (Handling Payment) (Testing Mode)
-5. Styled Components (Styling)
+4. Stripe (Handling Payment Requests) (Testing Mode)
+5. MongoDb (Database)
+6. Multer Middleware (Uploading Files to Database)
+7. Styled Components (Styling)
 
