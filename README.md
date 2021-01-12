@@ -3,7 +3,7 @@
 This project was bootstrapped with Create React App.
 
 ##  Clone repo
-`$ git clone git@github.com:basir/node-react-ecommerce.git`<br />
+`$ git clone git@github.com:blazed95/NodeJs-ReacJs-Ecommerce.git`<br />
 `$ cd node-react-ecommerce`<br />
 
 ##  Install Dependencies 
