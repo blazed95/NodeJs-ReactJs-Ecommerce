@@ -1,6 +1,6 @@
 # An E-Commerce Clothing Store Designed With Node.js And React.js
 
-This project was bootstrapped with Create React App.
+This project was created with Create React App.
 
 ##  Clone repo
 `$ git clone git@github.com:blazed95/NodeJs-ReacJs-Ecommerce.git`<br />
