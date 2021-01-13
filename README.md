@@ -25,3 +25,5 @@ Open [http://localhost:5000] -- Server Side.<br />
 6. Multer Middleware (Uploading Files to Database)
 7. Styled Components (Styling)
 
+### State Managment 
+The state managment, for both the User Authentication (by the Firebase functions) and the API calls (fetching data from our MongoDb Collections) was provided by the React's Context API.
